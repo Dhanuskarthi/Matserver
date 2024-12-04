@@ -35,7 +35,7 @@ Publish the website in the given URL.
 
 math.html
 
-<html>
+    <html>
     <head>
         <title> mathapp </title>      
         <style>
