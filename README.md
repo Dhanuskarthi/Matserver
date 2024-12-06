@@ -32,7 +32,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM:
-
+```
 math.html
 
     <html>
@@ -100,7 +100,7 @@ urlpatterns = [
     path('powerofbulb/',views.powerofbulb,name="powerofbulb"),
     path('',views.powerofbulb,name="powerofbulbroot")
 ]
-
+```
 ## SERVER SIDE PROCESSING:
 
 ![alt text](<Screenshot (37).png>)
